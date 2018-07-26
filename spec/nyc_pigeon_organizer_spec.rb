@@ -1,4 +1,6 @@
-require 'spec_helper'
+
+require '../nyc_pigeon_organizer.rb'
+
 
 describe "NYC Pigeon Organizer" do
 
